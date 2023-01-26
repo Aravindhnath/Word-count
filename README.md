@@ -34,5 +34,7 @@ print("Number of words= ",num_words)
 ### OUTPUT:
 ![Count of words](https://user-images.githubusercontent.com/118790841/214718555-82725b9d-4b60-46b2-be11-546b756d7990.jpg)
 
+![no of words](https://user-images.githubusercontent.com/118790841/214790919-4d565bd7-9a0b-41c6-a8a6-c8b5d975ca19.jpg)
+
 ## RESULT:
 Thus the program is written to find the word count from a text.
